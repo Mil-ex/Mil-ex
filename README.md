@@ -1,7 +1,7 @@
 # 🚀 Aerospace Engineer in the Making
 
 ### Welcome to My Orbit 🌌
-Hi, I'm **Alex**, an aspiring Aerospace Engineer with a penchant for all things tech, data, and automation. Recently, I've developed a strong interest in extending and deepening my knowledge in **electronics** and **software development**. Currently, I'm navigating my studies at the **University of Stuttgart** while working as a **Student Employee at Mercedes-Benz AG**. Here's a glimpse into my universe:
+Hi, I'm **Alex**, an aspiring Aerospace Engineer with a penchant for all things tech, data, and automation. Recently, I've developed a strong interest in extending and deepening my knowledge in **electronics** and **software development**. Currently, I'm navigating my studies at the **University of Stuttgart** while working as a **Working Student at Mercedes-Benz AG**. Here's a glimpse into my universe:
 
 ---
 
