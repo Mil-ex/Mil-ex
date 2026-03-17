@@ -1,6 +1,6 @@
 # 🚀 Welcome to My Orbit 🌌
 
-### Hi, I'm Alex — an engineer with an aerospace background and a passion for tech tinkering.
+### Hi, I'm Alex - an engineer with an aerospace background and a passion for tech tinkering :)
 
 I love building things where **code, data, and hardware** intersect. While my background is in aerospace, a lot of my day-to-day curiosity lives in machine learning, automation, and connecting physical systems with software.
 
