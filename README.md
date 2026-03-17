@@ -1,40 +1,38 @@
-# 🚀 Aerospace Engineer in the Making
+# 🚀 Welcome to My Orbit 🌌
 
-### Welcome to My Orbit 🌌
-Hi, I'm **Alex**, an aspiring Aerospace Engineer with a penchant for all things tech, data, and automation. Recently, I've developed a strong interest in extending and deepening my knowledge in **electronics** and **software development**. Currently, I'm navigating my studies at the **University of Stuttgart** while working as a **Working Student at Mercedes-Benz AG**. Here's a glimpse into my universe:
+### Hi, I'm Alex — an engineer with an aerospace background and a passion for tech tinkering.
 
----
+I love building things where **code, data, and hardware** intersect. While my background is in aerospace, a lot of my day-to-day curiosity lives in machine learning, automation, and connecting physical systems with software.
 
-### 🚀 **Aerospace Meets Innovation**
-- 📍 **Location**: Stuttgart, Germany  
-- 🛠️ **Focus Areas**:  
-  - Flight Control Systems  
-  - Propulsion and Energy Systems  
-  - Data Science, Data Engineering and AI  
+For me, the best way to understand a complex system is to build it, break it, fix it, and figure it out along the way.
 
 ---
 
-### 🧠 **Learning is My Liftoff**
-- 🌱 **Ongoing Missions**:  
-  - Enrolled in **Artificial Intelligence Software Academy (AISA)**  
-  - Polishing my **English Graduate Upgrade** certificate  
-  - Dabbling in real-time analytics using Python  
+## 🛰️ What I'm Exploring
+
+* **🧠 Data & Machine Learning:** Playing with data to uncover insights, training models, and building practical ML workflows
+* **🐍 Python & Automation:** Writing scripts to automate the boring stuff, streamline workflows, and solve everyday problems
+* **⚡ Microcontrollers:** Bringing code into the physical world using Arduino, ESP32, Raspberry Pi, and sensors
+* **🐧 Linux & Web Dev:** Customizing my dev environments, exploring Arch Linux, and building small web interfaces that connect data and hardware projects
 
 ---
 
-### 🛠️ **What I'm Building**
-- 🛰️ **Automation Nerd**: Building scripts to automate everyday tasks and data workflows  
-- 📊 **Data Explorer**: Playing with data to uncover insights and solve problems  
+## 🛠️ What You'll Find in My Universe (maybe I will share them somedays to the world ;)...)
+
+* Machine learning experiments and data analysis pipelines
+* Python automation tools and useful scripts
+* IoT projects, smart-device tinkering, and 3D printing ideas
+* Small web apps that tie data and hardware together
+* Whatever tech rabbit hole I'm currently obsessed with
 
 ---
 
-### 🌍 **Open for Collaboration**
-Looking to connect with other **data enthusiasts**, **automation geeks**, or **flight system fanatics**! Hit me up if you're interested in:  
-- Developing control systems for aerospace or automotive  
-- Applying AI to engineering challenges  
-- Exploring cool Python projects  
-- Exploring IoT and Smart-Device projects with Microcontrollers  
+## 🌍 Open for Collaboration
 
----
+I'm always happy to connect with other data enthusiasts, automation geeks, and hardware hackers. Feel free to reach out if you want to chat about:
+* applying ML to real-world engineering challenges
+* cool Python or web dev side projects
+* building smart devices with microcontrollers
+* Arch Linux setups and productivity hacks
 
-Feel free to check out my projects and connect! 🌐  
+Feel free to say hi! 🌐
