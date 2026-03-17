@@ -17,7 +17,7 @@ For me, the best way to understand a complex system is to build it, break it, fi
 
 ---
 
-## 🛠️ What You'll Find in My Universe (maybe I will share them somedays to the world ;)...)
+## 🛠️ What You'll Find in My Universe (maybe I will share them somedays with the world ;) )
 
 * Machine learning experiments and data analysis pipelines
 * Python automation tools and useful scripts
